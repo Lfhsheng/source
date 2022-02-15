@@ -1,0 +1,8 @@
+code {
+    /*设置代码块字体*/
+    font-family: Menlo,Monaco,Consolas,"Andale Mono","lucida console","Courier New",monospace;
+    /*设置代码块边框*/
+    border: 3px double; 
+    border-style: double; 
+    padding:2px 4px;
+}
